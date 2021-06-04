@@ -2,7 +2,7 @@
 
 ![Index](Documentation/MainView.png?raw=true)
 
-A copy of the application can be found here [ImageComparator.exe](https://github.com/AmitRungta/ImageComparator/Releasex64/ImageComparator.exe)
+A copy of the application can be found here [ImageComparator.exe](https://github.com/AmitRungta/ImageComparator/blob/main/Releasex64/ImageComparator.exe?raw=true)
 ## Introductions
 This tool is developed in MSVC2019 using MFC. It has been created to show the pixel level difference between 2 images side by side. 
 
